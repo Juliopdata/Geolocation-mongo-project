@@ -27,6 +27,7 @@ The goal of this project is for me to practice what I have learned in the MongoD
 
 According to my results the best place to achieve the goals proposed is the __San Francisco (USA)__
 
+<p align="center"> <img  src="https://github.com/Juliopdata/mongo-project/blob/master/SRC/map_sf.png"></p>
 
 
 
