@@ -1,7 +1,7 @@
 # <p align="center"> FIND THE BEST LOCATION FOR YOUR BUSINESS</p>
 
 
-  <p align="center"> <img  src="https://miro.medium.com/fit/c/256/256/1*NFwzjjur2atssvIlGia0AQ.jpeg"></p>
+  <p align="center"> <img  src="https://github.com/Juliopdata/mongo-project/blob/master/SRC/ironlogo.jpeg"></p>
 
 
 <p align="center">Project for Ironhack's Data Analytics Bootcamp</p>
@@ -25,7 +25,7 @@ The goal of this project is for me to practice what I have learned in the MongoD
 
 ## Results
 
-According to my results the best place to achieve the goals proposed is the __San Francisco (USA)__
+<p align="center">According to my results the best place to achieve the goals proposed is the __San Francisco (USA)__</p>
 
 <p align="center"> <img  src="https://github.com/Juliopdata/mongo-project/blob/master/SRC/map_sf.png"></p>
 
