@@ -1,7 +1,7 @@
 # <p align="center"> FIND THE BEST LOCATION FOR YOUR BUSINESS</p>
 
 
-  <p align="center"> <img  src="https://github.com/Juliopdata/mongo-project/blob/master/SRC/ironlogo.jpeg"></p>
+  <p align="center"> <img  src="https://github.com/Juliopdata/mongo-project/blob/master/SRC/ironlogo.jpeg" width="200"></p>
 
 
 <p align="center">Project for Ironhack's Data Analytics Bootcamp</p>
